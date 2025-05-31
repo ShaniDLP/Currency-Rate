@@ -1,4 +1,4 @@
-#Currency Exchange SPA
+# Currency Exchange SPA
 
 ## Task Summary
 This project is a responsive and performant Single Page Application (SPA) built with React + TypeScript, allowing users to view and monitor currency exchange rates in real-time.
