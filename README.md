@@ -63,6 +63,8 @@ Flags provided by flag-icons CSS library
 ## Screenshoots
 ![Image](https://github.com/user-attachments/assets/62f40c1f-731d-48bb-8e46-be1e9a201074)
 
+<img width="1792" alt="Image" src="https://github.com/user-attachments/assets/028201b4-f7ed-4d76-b3a7-4ff2f780d66a" />
+
 ![Image](https://github.com/user-attachments/assets/3816dba6-1555-46aa-947b-ea3cdf55ec6a)
 
 ![Image](https://github.com/user-attachments/assets/382b2741-6814-4758-b34c-68de05307516)
