@@ -41,7 +41,7 @@ export function HomePage() {
       }}
     >
       <Typography.Title
-        level={2}
+        level={1}
         style={{ textAlign: "center", marginBottom: "2rem", color: "white" }}
       >
         Currency Exchange Rates
