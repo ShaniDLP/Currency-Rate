@@ -22,6 +22,8 @@ The interface displays exchange rates for a customizable list of currencies rela
 
 - EUR as the fixed base currency: The free API does not allow changing the base currency from EUR.
 
+-  The API key used is limited to 100 requests per month. If you encounter missing or empty data, it's likely due to exceeding the quota. You can generate a new free API key at `https://manage.exchangeratesapi.io/signup/free` and update your .env file accordingly. 
+
 
   
 ##  How to Run
@@ -33,7 +35,7 @@ cd Currency-Rate
 ```
 Create a .env file in the root of the project:
 ```bash
-VITE_API_KEY=5d0eaa52514732bc39fe04dd464d4e3c
+VITE_API_KEY=3430409ee2e7a8fc98dc54ec5cfa70bc
 ```
 Then run:
 
