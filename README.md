@@ -54,7 +54,7 @@ http://localhost:5173/ (default Vite dev server)
 
 - Responsive improvements for mobile breakpoints
 
-##Credits
+## Credits
 
 Exchange rate data from exchangerate.host
 
